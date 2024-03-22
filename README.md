@@ -1,5 +1,3 @@
-
-
 # Microsoft Film Analysis
 ## Overview
 Microsoft has given us the duty of evaluating the state of the film business before it jumps on the bandwagon, due to the surge in original film production in giant companies. To arrive at findings, I examined the most popular genres and those with high audience votes, as well as the profitability of specific genres by looking at their return on investment and previewing the month of release.
