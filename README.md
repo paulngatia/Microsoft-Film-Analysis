@@ -1,5 +1,3 @@
-![image.png](attachment:image.png) 
-
 
 # Microsoft Film Analysis
 ## Overview
@@ -34,17 +32,17 @@ I removed unnecessary data columns and collected dependable information from dep
 ## 4. Findings
 The scatter plot study indicates that when the production budget rises, the global gross tends to rise as well.
 
-![Production Budget VS Worldwide Gross](image.png)
+![Production Budget vs Worldwide gross](image.png)
 
 
 ### ROI
 The scatter plot study indicates that there is a non-linear relationship between the production budget and the ROI, however there is an inverse link between the two. In particular, there is a negative relationship between the production budget and the return on investment for budgets between zero and one hundred million dollars. Nonetheless, it appears that there is no discernible relationship between the two factors for budgets between 100 and 300 million dollars.
 
-![Production Budget vs Return on Investment.png](image-1.png)
+![Production Budget vs Return on Investment](image-1.png)
 
 The biggest return on investment was shown in movies released in April, followed by September and July. In contrast, when it comes to the quantity of movies released in those months, April and September come in last. Their greater ROI can be explained by this. Due to their comparatively high return on investment, movies released in July seem to be a good choice for release.
 
-![Average ROI per Month.png](image-2.png)
+![Average ROI per Month](image-2.png)
 
 ![Distribution of films released per month](image-3.png)
 
@@ -52,7 +50,7 @@ Thriller, Adventure, Comedy, Drama, and Action were the genres with the most fil
 
 ![Average ROI by Genre](image-4.png)
 
-![Number of Movies by Genre](image-5.png)
+![Number of Movies per Genre](image-5.png)
 
 ### Popularity
 I looked over every film on TMDB and put them in the appropriate genres. I determined the five most prevalent genres based on my analysis, and they are as follows: 
@@ -73,7 +71,7 @@ The top 5 studios in terms of gross income are
 4. Warner Bros. Pictures
 5. Sony Pictures Entertainment (SPE)
 
-![Top 10 Studios by Total Gross (2013-2018](image-7.png)
+![Top 10 Studios by Total Gross (2013-2018)](image-7.png)
 
 ## Conclusion
 This study yields the following recommendations for the genres of films that are performing the best at the box office:   
