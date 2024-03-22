@@ -34,7 +34,6 @@ The scatter plot study indicates that when the production budget rises, the glob
 
 ![Production Budget vs Worldwide gross](image.png)
 
-
 ### ROI
 The scatter plot study indicates that there is a non-linear relationship between the production budget and the ROI, however there is an inverse link between the two. In particular, there is a negative relationship between the production budget and the return on investment for budgets between zero and one hundred million dollars. Nonetheless, it appears that there is no discernible relationship between the two factors for budgets between 100 and 300 million dollars.
 
