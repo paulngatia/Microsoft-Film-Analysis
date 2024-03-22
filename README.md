@@ -4,7 +4,7 @@
 
 Microsoft has given us the duty of evaluating the state of the film business before it jumps on the bandwagon, due to the surge in original film production in giant companies. To arrive at findings, I examined the most popular genres and those with high audience votes, as well as the profitability of specific genres by looking at their return on investment and previewing the month of release.
 
-## 1. Business Problem
+## 1. Business Problem 
 
 Choosing how to make original video content that will differentiate Microsoft from competitors and draw and keep viewers could provide a business challenge. Microsoft must set itself apart from the competition and provide engaging content that appeals to viewers in order to take the lead in the market, since well-known companies like Sony and Disney already produce excellent unique content. This can be done by;
 
