@@ -74,6 +74,15 @@ The top 5 studios in terms of gross income are
 
 ![Top 10 Studios by Total Gross (2013-2018](image-7.png)
 
+## Conclusion
+This study yields the following recommendations for the genres of films that are performing the best at the box office:   
+
+- Microsoft can purchase its intellectual property rights from any of the big studios, including Walt Disney, Universal Pictures, Warner Brothers, 21st Century Fox, and Sony Pictures Entertainment, as it has no past expertise in the film industry.
+- A little positive correlation exists between the production budget and return on investment of a film. 
+- The worldwide gross of a film is positively correlated with its production expenditure. 
+- July releases have a higher likelihood of being successful.
+Action and adventure films are the most popular genres, although horror and music videos are more likely to make a bigger profit.
+
 
 
 
